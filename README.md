@@ -1,12 +1,12 @@
-###<center> _🦋Welcome🦋! </center>
+<center> 🦋Welcome🦋! </center>
 
-  <h2> **Learning** all that I can, to obtain a career position in Front-End development.</h2>
+  <h2>Learning all that I can, to obtain a career position in Front-End development.</h2>
 
-  - 🌱 I’m currently learning: _**JavaScript
+  - 🌱 I’m currently learning: **JavaScript**
   
   - ⚡ Fun fact: Enjoy creating CSS art on my free time. 
   
-  _"If you get up in the morning and think the future is going to be better, it is a bright day. Otherwise, it's not."- __Elon Musk
+  _"If you get up in the morning and think the future is going to be better, it is a bright day. Otherwise, it's not."- **Elon Musk**
   
 
 <!--
