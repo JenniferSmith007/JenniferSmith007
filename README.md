@@ -4,9 +4,9 @@
 
   - 🌱 I’m currently learning: **JavaScript**
   
-  - ⚡ Fun fact: Enjoy creating CSS art on my free time. 
+  - ⚡ Fun fact: **Enjoy creating CSS art on my free time.** 
   
-  _"If you get up in the morning and think the future is going to be better, it is a bright day. Otherwise, it's not."- **Elon Musk**
+  "If you get up in the morning and think the future is going to be better, it is a bright day. Otherwise, it's not."- **Elon Musk**
   
 
 <!--
