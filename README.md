@@ -6,7 +6,7 @@
   
   - ⚡ Fun fact: **Enjoy creating CSS art whenever I have free time.** 
   
-  "If you get up in the morning and think the future is going to be better, it is a bright day. Otherwise, it's not."- **Elon Musk**
+  _"If you get up in the morning and think the future is going to be better, it is a bright day. Otherwise, it's not."- **Elon Musk**
   
 
 <!--
