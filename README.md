@@ -1,6 +1,6 @@
-<center> 🦋Welcome🦋! </center>
+<center><h1> 🦋Welcome🦋 </h1> </center>
 
-  <h2>Learning all that I can, to obtain a career position in Front-End development.</h2>
+  <h2>Learning all that I can to obtain a career position in Front-End development.</h2>
 
   - 🌱 I’m currently learning: **JavaScript**
   
