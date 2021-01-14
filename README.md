@@ -1,12 +1,11 @@
-# <img width="920" height="190" src='images/banner.png'/> <div align="left"><h1>🦋 Welcome 🦋<br> <div align="center"> <img src="images/hello.gif" width="450px" height="180px"></div> </h1></div>
+# <img width="920" height="190" src='images/banner.png'/> <div align="left"><h1>🦋 Welcome 🦋<br> <div align="center"> <img src="images/hello.gif" width="450px" height="190px"></div> </h1></div>
 
-<div align="right"> 
- - 🌱 I’m currently learning: 
-**JavaScript**
-**React**
-  </div>
+- 🌱 **I’m currently learning:**
+  <br>
+  **JavaScript**
+  **React**
 
-- ⚡ Fun fact: **Enjoy creating CSS art whenever I have free time.**
+- ⚡ **Fun fact:** **Enjoy creating CSS art whenever I have free time.**
 
 <!--
 **JenniferSmith007/JenniferSmith007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
