@@ -2,7 +2,7 @@
 
 <div align="left">
 
-## - 🌱 **I’m currently learning:**<br><div align="left"> **JavaScript** <br> **React** </div> <br> - ⚡ **Fun fact:** <br> **Enjoy creating CSS art whenever I have free time.**<img align="right" src="https://github-readme-stats.vercel.app/api//?username=JenniferSmith007&theme=shades-of-purple" />
+## - 🌱 **I’m currently learning:**<br><div align="left"> **JavaScript** <br> **React** </div> <br> - ⚡ **Fun fact:** <br> **Enjoy creating CSS art whenever I have free time. <br> **<img align="right" src="https://github-readme-stats.vercel.app/api//?username=JenniferSmith007&theme=shades-of-purple" />
 
 <!--
 **JenniferSmith007/JenniferSmith007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
