@@ -1,4 +1,4 @@
-<img width="760" height="390" src='images/banner.png'/>
+<img width="720" height="230" src='images/banner.png'/>
 
 <center><h1> 🦋Welcome🦋 </h1> </center>
 
