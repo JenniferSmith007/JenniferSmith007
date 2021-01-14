@@ -1,9 +1,16 @@
 # <img width="920" height="190" src='images/banner.png'/>
 
-# <div align="center"> 🦋Welcome🦋 </div> <div align="center"><br> <img src="images/hello.gif" width="350px" height="190px"></div>
+# <div align="center">🦋Welcome🦋 </div> <br>
 
+<div>
+<div align="lef"> <img src="images/hello.gif" width="350px" height="190px">
+
+<div align="right"> 
 - 🌱 I’m currently learning: **JavaScript**
-  **React**
+**React**
+  </div>
+</div>
+</div>
 
 - ⚡ Fun fact: **Enjoy creating CSS art whenever I have free time.**
 
