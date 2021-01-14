@@ -1,4 +1,4 @@
-![Screenshot](images/banner.png)
+<img width="360" height="190" src='images/banner.png'/>
 
 <center><h1> 🦋Welcome🦋 </h1> </center>
 
