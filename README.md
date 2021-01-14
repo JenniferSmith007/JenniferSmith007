@@ -2,13 +2,10 @@
 
 # <div align="center"> 🦋Welcome🦋 </div> <div align="center"> <img src="images/hello.gif" width="350px" height="190px"></div>
 
-  <h2>Learning all that I can to make it possible in obtaining a career in Front-End development.</h2>
-
 - 🌱 I’m currently learning: **JavaScript**
+  **React**
 
 - ⚡ Fun fact: **Enjoy creating CSS art whenever I have free time.**
-
-"If you get up in the morning and think the future is going to be better, it is a bright day. Otherwise, it's not."- **Elon Musk**
 
 <!--
 **JenniferSmith007/JenniferSmith007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
