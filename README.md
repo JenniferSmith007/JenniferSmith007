@@ -1,4 +1,4 @@
-# <img width="920" height="190" src='images/banner.png'/> <div align="center"><h1>🦋Welcome🦋 </h1></div> <br><div align="center"> <img src="images/hello.gif" width="450px" height="180px"></div>
+# <img width="920" height="190" src='images/banner.png'/> <div align="center"><h1>🦋Welcome🦋 <br> <div align="center"> <img src="images/hello.gif" width="450px" height="180px"></div> </h1></div>
 
 <div align="right"> 
  - 🌱 I’m currently learning: 
