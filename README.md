@@ -1,6 +1,6 @@
 # <img width="920" height="190" src='images/banner.png'/>
 
-# <div align="center"> 🦋Welcome🦋 </div> <div align="center"> <img src="images/hello.gif" width="350px" height="190px"></div>
+# <div align="center"> 🦋Welcome🦋 </div> <div align="center"><br> <img src="images/hello.gif" width="350px" height="190px"></div>
 
 - 🌱 I’m currently learning: **JavaScript**
   **React**
