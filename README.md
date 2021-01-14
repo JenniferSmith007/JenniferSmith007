@@ -1,6 +1,6 @@
 # <img width="920" height="190" src='images/banner.png'/>
 
-# <div align="right">🦋Welcome🦋 </div> <br><div align="lef"> <img src="images/hello.gif" width="350px" height="190px"></div>
+# <div align="left">🦋Welcome🦋 </div> <br><div align="center"> <img src="images/hello.gif" width="350px" height="190px"></div>
 
 <div align="right"> 
  - 🌱 I’m currently learning: 
