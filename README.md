@@ -4,6 +4,9 @@
 
 ## - 🌱 **I’m currently learning:**<br><div align="left"> **JavaScript** <br> **React** </div> <br> - ⚡ **Fun fact:** <br> **Enjoy creating CSS art whenever I have free time.**
 
+<div align="right">
+
+<img align="right" src="https://github-readme-stats.vercel.app/api//?username=JenniferSmith007&theme=shades-of-purple" />
 </div>
 
 <!--
