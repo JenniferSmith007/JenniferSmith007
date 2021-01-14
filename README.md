@@ -1,6 +1,6 @@
 # <img width="920" height="230" src='images/banner.png'/>
 
- # 🦋Welcome🦋 
+# 🦋Welcome🦋 <img src="images/hello.gif" width="40px">
 
   <h2>Learning all that I can to make it possible in obtaining a career in Front-End development.</h2>
 
