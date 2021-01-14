@@ -1,6 +1,6 @@
-<img width="920" height="230" src='images/banner.png'/>
+# <img width="920" height="230" src='images/banner.png'/>
 
-<center><h1> 🦋Welcome🦋 </h1> </center>
+ # 🦋Welcome🦋 
 
   <h2>Learning all that I can to make it possible in obtaining a career in Front-End development.</h2>
 
