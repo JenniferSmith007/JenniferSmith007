@@ -2,10 +2,7 @@
 
 <div align="left">
 
-- 🌱 **I’m currently learning:**
-  <br>
-  **JavaScript**
-  **React**
+## - 🌱 **I’m currently learning:**<br> **JavaScript** **React**
 
 - ⚡ **Fun fact:** **Enjoy creating CSS art whenever I have free time.**
 </div>
