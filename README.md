@@ -1,4 +1,4 @@
-# <img width="920" height="190" src='images/banner.png'/> <div align="left"><h1>🦋 Welcome 🦋<br> <div align="left"> <img src="images/hello.gif" width="450px" height="190px"> 
+#  <div align="left"><h1>🦋 Welcome 🦋<br> <div align="left"> <img src="images/hello.gif" width="450px" height="190px"> 
 
 </div> </h1>
 
