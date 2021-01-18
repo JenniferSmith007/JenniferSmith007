@@ -1,4 +1,4 @@
-#  <div align="left"><h1>🦋 Welcome 🦋<br> <div align="left"> <img src="images/hello.gif" width="450px" height="190px"> 
+#  <div align="center"><h1>🦋 Welcome 🦋<br> <div align="center"> <img src="images/hello.gif" width="450px" height="190px"> 
 
 </div> </h1>
 
