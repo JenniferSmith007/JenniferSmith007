@@ -4,7 +4,7 @@
 
 <div><div align="left"><p> 🌱 <b>I’m currently learning:</b><br> - JavaScript / React <br>
 - UI / UX  <p></div>
-<div align="right"><p><b>I’m looking to collaborate on:<b><br> </div>
+<div align="left"><p><b> 🤜🏽🤛🏽 I’m looking to collaborate on:<b><br> - UI / UX projects  </div>
 <!--
 **JenniferSmith007/JenniferSmith007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
