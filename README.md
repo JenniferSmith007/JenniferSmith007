@@ -2,7 +2,7 @@
 
 #### <div align="left"> 🌱 I’m currently learning:</div>
 
-##### <div align="left"> <br>- JavaScript <br>- React <br>- UI / UX </div>
+##### <div align="left"> - JavaScript <br>- React <br>- UI / UX </div>
 
 <!--
 **JenniferSmith007/JenniferSmith007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
