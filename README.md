@@ -5,6 +5,8 @@
 <div><div align="left"><p> 🌱 <b>I’m currently learning:</b><br> - JavaScript / React <br>
 - UI / UX  <p></div>
 <div align="left"><p><b> 🤜🏽🤛🏽 I’m looking to collaborate on:</b><br> - UI / UX projects  </div>
+<div align="left"><p><b> 🤳🏽 How to reach me: </b><br> You can find me on  <a href="https://www.linkedin.com/in/jennifer-smith-14a8361b7/"><img src="images/linkedin-16.png" width="15px" height="15px"/></a>.
+ </div>
 <!--
 **JenniferSmith007/JenniferSmith007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
