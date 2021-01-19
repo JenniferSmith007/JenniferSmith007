@@ -2,7 +2,7 @@
 
 ## <div align="center"><h1>🦋 Welcome 🦋<br> <img align="center" src="images/Naruto Smile - Imgur.gif" width="420px" height="200px"></div>
 
-<div align="left"><p>🌱 I’m currently learning: React <p></div>
+<div align="left"><p> 🌱 <b>I’m currently learning:</b> React <p></div>
 <!--
 **JenniferSmith007/JenniferSmith007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
