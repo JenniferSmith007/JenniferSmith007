@@ -7,7 +7,8 @@
 <div align="left"><p><b> 🤜🏽🤛🏽 I’m looking to collaborate on:</b><br> - UI / UX projects  </div>
 <div align="left"><p><b> 🤳🏽 How to reach me: </b><br> You can find me on  <a href="https://www.linkedin.com/in/jennifer-smith-14a8361b7/"><img src="images/linkedin-16.png" width="15px" height="15px"/></a>.
  </div>
-<img align="center" src="https://github-readme-stats.vercel.app/api//?username=JenniferSmith007&theme=solarized-light" />
+ <div align="right"><img align="right" src="https://github-readme-stats.vercel.app/api//?username=JenniferSmith007&theme=solarized-light" />
+</div>
 
  <div>
 <!--
