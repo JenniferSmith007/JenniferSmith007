@@ -3,9 +3,10 @@
 ## <div align="center"><h1>🦋 Welcome 🦋<br> <img align="center" src="images/Naruto Smile - Imgur.gif" width="420px" height="200px"></div>
 
 <div><div align="left"><p> 🌱 <b>I’m currently learning:</b><br> - JavaScript / React <br>
-- UI / UX  <p></div>
+- UI / UX  <p>
+<img align="right" src="https://github-readme-stats.vercel.app/api//?username=JenniferSmith007&theme=solarized-light" /></div>
 <div align="left"><p><b> 🤜🏽🤛🏽 I’m looking to collaborate on:</b><br> - UI / UX projects 
- <img align="right" src="https://github-readme-stats.vercel.app/api//?username=JenniferSmith007&theme=solarized-light" /> </div>
+  </div>
 
 <div align="left"><p><b> 🤳🏽 How to reach me: </b><br> You can find me on  <a href="https://www.linkedin.com/in/jennifer-smith-14a8361b7/"><img src="images/linkedin-16.png" width="15px" height="15px"/></a>.
  </div>
