@@ -1,10 +1,6 @@
 # <div align="left">[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJenniferSmith007&count_bg=%2358435C&title_bg=%23D9ADF1&icon=&icon_color=%23EBE7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)</div>
 
-## <div align="center"><h1>🦋 Welcome 🦋<br> <div align="center"> <img src="images/hello.gif" width="450px" height="190px">
-
-#### <div align="left"> 🌱 I’m currently learning:</div>
-
-##### <div align="left"> - JavaScript <br>- React <br>- UI / UX </div>
+## <div align="center"><h1>🦋 Welcome 🦋<br> <div align="center"> <img src="images/hello.gif" width="450px" height="200px">
 
 <!--
 **JenniferSmith007/JenniferSmith007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
