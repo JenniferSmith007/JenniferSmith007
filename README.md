@@ -2,6 +2,7 @@
 
 ## <div align="center"><h1>🦋 Welcome 🦋<br> <img align="center" src="images/Naruto Smile - Imgur.gif" width="420px" height="200px">
 
+<div align="right"><p>🌱 I’m currently learning: React <p></div>
 <!--
 **JenniferSmith007/JenniferSmith007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
