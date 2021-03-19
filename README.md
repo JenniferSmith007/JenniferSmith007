@@ -4,7 +4,7 @@
 
 <div><div align="left"><p> 🌱 <b>I’m currently learning:</b><br> - JavaScript / React <br>
 - UI / UX  <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api//?username=JenniferSmith007&theme=solarized-light" /></div><br>
+
 <div align="left"><p><b> 🤜🏽🤛🏽 I’m looking to collaborate on:</b><br> - UI / UX projects 
   </div>
 
