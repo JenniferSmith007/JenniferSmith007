@@ -2,8 +2,9 @@
 
 ## <div align="center"><img align="left" src="images/Linkedin-5.png" width="900px" height="144px"></div><br>
 
-<div><div align="left"><p> 🌱 <b>I’m currently learning:</b><br> - JavaScript / React <br>
-- UI / UX  <p>
+<br><div><div align="left"><p> 🌱 <b>I’m currently learning:</b><br> - JavaScript / React <br>
+
+- UI / UX <p>
 
 <div align="left"><p><b> 🤜🏽🤛🏽 I’m looking to collaborate on:</b><br> - UI / UX projects 
   </div>
