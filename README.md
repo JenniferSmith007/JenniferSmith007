@@ -2,14 +2,12 @@
 
 ## <div align="center"><img align="left" src="images/Linkedin-5.png" width="900px" height="144px"></div><br>
 
-<br><div><div align="left"><p> 🌱 <b>I’m currently learning:</b><br> - JavaScript / React <br>
+|                                    |                                                                                                                                    |     |
+| :--------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------: | --: |
+| 🌱 <b>I’m currently learning       |                                                              UI / UX                                                               |     |
+| 🤜🏽🤛🏽 I’m looking to collaborate on |                                                          UI / UX projects                                                          |     |
+| 🤳🏽 How to reach me                 | <a href="https://www.linkedin.com/in/jennifer-smith-14a8361b7/"><img src="images/linkedin-16.png" width="15px" height="15px"/></a> |
 
-- UI / UX <p>
-
-<div align="left"><p><b> 🤜🏽🤛🏽 I’m looking to collaborate on:</b><br> - UI / UX projects 
-  </div>
-
-<div align="left"><p><b> 🤳🏽 How to reach me: </b><br> You can find me on  <a href="https://www.linkedin.com/in/jennifer-smith-14a8361b7/"><img src="images/linkedin-16.png" width="15px" height="15px"/></a>.
  </div>
 
 </div>
