@@ -1,6 +1,6 @@
 # <div align="left">[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJenniferSmith007&count_bg=%2358435C&title_bg=%23D9ADF1&icon=&icon_color=%23EBE7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)</div>
 
-## <div align="center"><img align="left" src="images/Linkedin-4.png" width="800px" height="138px"></div>
+## <div align="center"><img align="left" src="images/Linkedin-5.png" width="850px" height="138px"></div>
 
 <div><div align="left"><p> 🌱 <b>I’m currently learning:</b><br> - JavaScript / React <br>
 - UI / UX  <p>
