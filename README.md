@@ -1,12 +1,12 @@
 # <div align="left">[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJenniferSmith007&count_bg=%2358435C&title_bg=%23D9ADF1&icon=&icon_color=%23EBE7E7&title=Views&edge_flat=false)](https://hits.seeyoufarm.com)</div>
 
-![Alt Text](https://media.giphy.com/media/ZN5okPb395T7G/giphy.gif)
+![Alt Text](https://media.giphy.com/media/pIYzr864MJ9WU/giphy.gif) ![Alt Text](https://media.giphy.com/media/ZN5okPb395T7G/giphy.gif)
 
 
 
 
 
-![Alt Text](https://media.giphy.com/media/pIYzr864MJ9WU/giphy.gif)
+
 
  </div>
 
