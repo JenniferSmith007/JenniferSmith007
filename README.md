@@ -4,12 +4,9 @@
 
 
 
-|                                    |                                                                                                                                    |     |
-| :--------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------: | --: |
 
-| 🤳🏽 How to reach me                 | <a href="https://www.linkedin.com/in/jennifer-smith-14a8361b7/"><img src="images/linkedin-16.png" width="15px" height="15px"/></a> |
 
-![Alt Text](https://media.giphy.com/media/ZN5okPb395T7G/giphy.gif)
+![Alt Text](https://media.giphy.com/media/pIYzr864MJ9WU/giphy.gif)
 
  </div>
 
