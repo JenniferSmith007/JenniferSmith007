@@ -21,7 +21,7 @@
 <img src="https://media.giphy.com/media/l0HFiA2XMHPMdKS2c/giphy.gif" width="130" height="110" />
 <img src="https://media.giphy.com/media/Vur3LPcCBhYze/giphy.gif" width="130" height="110" />
 
- !!!!!!!!!!!!!!!!!!!!!!!!!!DO NOT STEAL MY CODE OR FORK MY PROJECTS!!!!!!!!!!!!!!
+
 
 
 </div>
