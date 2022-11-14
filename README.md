@@ -11,7 +11,7 @@
  </div>
  <br>
  <div align='center'>
- <h3> 👩🏽‍💻 Currently learning -  Frontend development / Data Structures and Algorithims 💫 </h3>
+
 
 
 </div>
